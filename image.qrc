@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>capucho run.jpg</file>
+        <file>bala.png</file>
+    </qresource>
+</RCC>
